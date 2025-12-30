@@ -30,7 +30,6 @@
 
 ## 📫 How to Reach Me
 - GitHub: **[@Rutujak1919](https://github.com/Rutujak1919)**  
-- Email: *(add your email here if you want)*  
 
 ---
 
