@@ -32,8 +32,9 @@
 
 ### Tools & Technologies
 - Git & GitHub  
-- Visual Studio Code  
+- Visual Studio Code (VS Code)  
 - MySQL  
+- Canva  
 - Browser Developer Tools  
 
 ---
