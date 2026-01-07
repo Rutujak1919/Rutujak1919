@@ -1,46 +1,30 @@
-# Hi 👋, I'm Rutuja Kale (@Rutujak1919)
+## 📌 Projects
 
-🌟 A curious learner stepping into the world of technology  
-💡 Passionate about computers, creativity, and continuous growth  
-
----
-
-## 👀 Interests
-- Web Development 🌐  
-- Java & SQL based projects ☕  
-- Exploring new technologies  
-- Creating simple and useful applications  
+### 🔹 Smart To-Do List Management System
+A responsive web application designed to manage daily tasks efficiently.  
+Features include task creation, categories, status tracking, and a clean user interface built with HTML, CSS, and JavaScript.
 
 ---
 
-## 🌱 Currently Learning
-- Computer courses & programming basics  
-- HTML, CSS, JavaScript  
-- Java, MySQL  
-- Project-based learning  
+### 🔹 Healthcare Management System
+A Java + MySQL based application focused on managing healthcare-related data.  
+The project includes structured data handling, database connectivity, and core backend logic for healthcare operations.
 
 ---
 
-## 💞️ Looking to Collaborate On
-- Beginner-friendly coding projects  
-- Web or software development projects  
-- Learning-focused tech collaborations  
+### 🔹 Ecommerce Website
+A web-based e-commerce application that allows users to browse products, add items to a cart, and place orders.  
+Includes basic Admin and Customer role concepts with a focus on front-end structure and usability.
 
 ---
 
-## 📫 How to Reach Me
-- GitHub: **[@Rutujak1919](https://github.com/Rutujak1919)**  
+### 🔹 Invitation Card Design
+A creative design project made using Canva.  
+Focused on clean layouts, elegant typography, and balanced color schemes for digital invitation cards.
 
 ---
 
-## 😄 Pronouns
-- She / Her  
+### 🔹 CBT-CIP
+A simple front-end focused project built using CSS.  
+This project emphasizes layout design, styling techniques, and visual presentation.
 
----
-
-## ⚡ Fun Fact
-I believe learning technology step-by-step makes even complex things simple 🚀  
-
----
-
-⭐ *Always learning, always improving!*  
