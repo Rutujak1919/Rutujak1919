@@ -1,30 +1,81 @@
-## 📌 Projects
+# Hi 👋, I'm Rutuja Kale (@Rutujak1919)
 
-### 🔹 Smart To-Do List Management System
-A responsive web application designed to manage daily tasks efficiently.  
-Features include task creation, categories, status tracking, and a clean user interface built with HTML, CSS, and JavaScript.
-
----
-
-### 🔹 Healthcare Management System
-A Java + MySQL based application focused on managing healthcare-related data.  
-The project includes structured data handling, database connectivity, and core backend logic for healthcare operations.
+🚀 **Aspiring Software & Web Developer**  
+💡 Passionate about building clean, user-friendly applications and growing through hands-on projects  
 
 ---
 
-### 🔹 Ecommerce Website
-A web-based e-commerce application that allows users to browse products, add items to a cart, and place orders.  
-Includes basic Admin and Customer role concepts with a focus on front-end structure and usability.
+## 👀 Interests
+- Web Development 🌐  
+- Java & SQL based projects ☕  
+- Exploring new technologies  
+- Creating simple and useful applications  
 
 ---
 
-### 🔹 Invitation Card Design
-A creative design project made using Canva.  
-Focused on clean layouts, elegant typography, and balanced color schemes for digital invitation cards.
+## 🌱 Currently Learning
+- Computer courses & programming basics  
+- HTML, CSS, JavaScript  
+- Java, MySQL  
+- Project-based learning  
 
 ---
 
-### 🔹 CBT-CIP
-A simple front-end focused project built using CSS.  
-This project emphasizes layout design, styling techniques, and visual presentation.
+## 🛠️ Languages & Tools
 
+### Languages
+- HTML  
+- CSS  
+- JavaScript  
+- Java  
+- SQL  
+
+### Tools & Technologies
+- Git & GitHub  
+- Visual Studio Code  
+- MySQL  
+- Browser Developer Tools  
+
+---
+
+## 📌 Featured Projects
+- **Smart To-Do List Management System**  
+  A clean and responsive task management web application with task creation, status tracking, and categories.
+
+- **Healthcare Management System**  
+  A Java and MySQL based application designed to manage healthcare-related data using structured database concepts.
+
+- **Ecommerce Website**  
+  A web-based application that allows users to browse products, add items to a cart, and place orders with basic admin and customer roles.
+
+- **CBT-CIP**  
+  A front-end project focused on CSS styling, layout design, and visual presentation.
+
+- **Invitation Card Design**  
+  A creative design project created using Canva, focusing on clean layouts, elegant typography, and balanced color combinations.
+
+---
+
+## 🤝 Looking to Collaborate On
+- Beginner-friendly coding projects  
+- Web or software development projects  
+- Learning-focused tech collaborations  
+
+---
+
+## 📫 How to Reach Me
+- GitHub: [@Rutujak1919](https://github.com/Rutujak1919)
+
+---
+
+## 😄 Pronouns
+- She / Her  
+
+---
+
+## ⚡ Fun Fact
+I believe **consistent practice beats talent** — learning step by step makes even complex technology simple 🚀  
+
+---
+
+⭐ *Always learning, always improving.*
